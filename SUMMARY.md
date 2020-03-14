@@ -5,4 +5,5 @@
     * [简单工厂模式](SimpleFactory.md)
     * [工厂方法模式](interfaceFactory.md)
     * [抽象工厂模式](abstractFactory.md)
+    * [建造者模式](BuilderPattern.md)
 
