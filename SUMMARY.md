@@ -7,4 +7,7 @@
     * [抽象工厂模式](abstractFactory.md)
     * [建造者模式](BuilderPattern.md)
     * [原型模式](PrototypePattern.md)
+    * [适配器模式](AdapterPattern.md)
+    * [代理模式](ProxyPattern.md)
+    * [桥接模式](BridgePattern.md)
 
