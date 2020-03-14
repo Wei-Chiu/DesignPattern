@@ -6,4 +6,5 @@
     * [工厂方法模式](interfaceFactory.md)
     * [抽象工厂模式](abstractFactory.md)
     * [建造者模式](BuilderPattern.md)
+    * [原型模式](PrototypePattern.md)
 
